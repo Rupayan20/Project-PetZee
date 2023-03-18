@@ -1,0 +1,62 @@
+body{
+    background-color: bisque;
+}
+.container
+{
+    height: 800px;
+    width: 800px;
+    background-color: aqua;
+    display: grid;
+    grid-template-rows: 57px 200px 55px 368px 40px;
+    grid-gap: 20px;
+    justify-items: center;
+}
+
+.item1{
+    height: 62px;
+    width: 100%;
+background-color: black;
+text-align:center;
+
+}
+.item1 p{
+    padding:8px 28px 7px 10px;
+    color: aliceblue;
+}
+.item2{
+    padding-left: 10px;
+    height: 100%;
+    width: 100%;
+    background-color: #ffc107;
+    
+    }
+.item3{
+    height: 100%;
+    width: 80%;
+    background-color: red;
+    border-top-left-radius: 6px;
+    border-BOTTOM-left-radius: 6px;
+    border-BOTTOM-RIGHT-radius: 6px;
+    border-top-RIGHT-radius: 6px;
+}
+.item3 .sc{
+    height: 31px;
+    width: 205px;
+    margin: -3px 42px 12px 363px;
+}
+.item4{
+    height: 100%;
+    width: 80%;
+    background-color: red;
+}
+.item5{
+    height: 100%;
+    width: 122px;
+    background-color: red;
+}
+.mix{
+    margin: 3px 0px -21px 87px;
+}
+.mix .states .city{
+   width: 50px;
+}
