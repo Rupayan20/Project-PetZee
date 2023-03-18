@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="cattle.css">
+</head>
+<body>
+    <div class="container">
+        <form class="filter">
+            <div class="item">
+                <label for="">Breed</label>
+                <select name="breed">
+                    <option value="">---</option>
+                    <option value="Sahiwal cattle">Sahiwal cattle</option>
+                    <option value="Krishna Valley">Krishna Valley</option>
+                    
+                </select>
+            </div>
+            <div class="item">
+                <label for="">sex</label>
+                <select name="sex">
+                    <option value="">---</option>
+                    <option value="male">male</option>
+                    <option value="female">female</option>
+                </select>
+            </div>
+            <div class="item">
+                <label for="">Name</label>
+                <input type="text" name="name">
+            </div>
+            <div class="item">
+                <label for="">Max Price</label>
+                <input type="number" name="maxPrice">
+            </div>
+            <div class="item">
+                <label for="">City</label>
+                <select name="location">
+                    <option value="">---</option>
+                    <option value="kolkata">kolkata</option>
+                    <option value="delhi">delhi</option>
+                
+                </select>
+            </div>
+            <div class="item submit">
+                <button>Search</button>
+            </div>
+        </form>
+        <div class="countResults">
+            Found <b id="count">6</b> results
+        </div>
+        <div id="list">
+            
+        </div>
+    </div>
+    
+
+    <script src="cattle.js"></script>
+</body>
+</html>
