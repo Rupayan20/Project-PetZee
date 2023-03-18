@@ -34,4 +34,4 @@ Our website, <b>PetCare</b> provides a comprehensive range of pet services, incl
 - [x] <a href="https://github.com/Codepalx"> Palash Sakar </a>
 - [x] <a href="https://github.com/Rupayan20"> Rupayan Dutta </a>
 - [x] <a href="https://github.com/SanjoySaha24"> Sanjoy Saha </a>
-- [x] <a href="#"> Subhajit Pramanik </a>
+- [x] <a href="https://github.com/subho1101"> Subhajit Pramanik </a>
