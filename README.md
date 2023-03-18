@@ -1,2 +1,37 @@
-# Project-PetCare
-Join our community of pet lovers to create the ultimate resource for all things pets! Pet shops, food, hospitals, shelters, news, and more. Let's make pet care easy and enjoyable!
+# <p align = "center"> PetCare @CodeFest2023 </p>
+
+
+
+
+
+
+
+
+ ## 📌 @CodeFest2023 Program
+
+ ### This project is a part of following Hackathon Programs
+
+ 
+
+##  About CodeFest2023
+<b>CodeFest 2023</b> is a 5-days Tech Festival organized by the Computer Science and Engineering Department of JIS University Kolkata. It is a platform for students to showcase technical skills and creativity. The hackathon is a great opportunity for us to learn, network, and build something new.
+
+It was put together by a large group of tech enthusiasts from Google Developer Student Club (GDSC) JIS University. The main goal is to grow our local community and give hackers an unforgettable experience. 
+
+
+##  About PetCare
+Our website, <b>PetCare</b> provides a comprehensive range of pet services, including pet shops, food shops, hospitals, creches, and shelters etc. We also offer a news and video section to keep pet owners and pet lovers up-to-date with the latest trends and happenings in the pet world. Our repository is the perfect place to collaborate and contribute to the development of our website. We welcome your ideas and contributions to create a community of pet lovers dedicated to providing the best care for our furry friends. Together, we can make this website the ultimate resource for pet owners everywhere. Join us today and let's make a difference in the lives of pets and their owners!
+
+
+### Tech Stacks
+- [ ] HTML
+- [ ] CSS
+
+
+### Project Contributors:
+- [x] <a href="https://github.com/Pikselas"> Aritra Maji </a>
+- [x] <a href="https://github.com/DebasishBiswas1"> Debasish Biswas </a>
+- [x] <a href="https://github.com/Codepalx"> Palash Sakar </a>
+- [x] <a href="https://github.com/Rupayan20"> Rupayan Dutta </a>
+- [x] <a href="https://github.com/SanjoySaha24"> Sanjoy Saha </a>
+- [x] <a href="#"> Subhajit Pramanik </a>
