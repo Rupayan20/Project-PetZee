@@ -1,4 +1,4 @@
-# <p align = "center"> PetCare @CodeFest2023 </p>
+# <p align = "center"> PetZee @CodeFest2023 </p>
 
 
 
@@ -19,13 +19,14 @@
 It was put together by a large group of tech enthusiasts from Google Developer Student Club (GDSC) JIS University. The main goal is to grow our local community and give hackers an unforgettable experience. 
 
 
-##  About PetCare
-Our website, <b>PetCare</b> provides a comprehensive range of pet services, including pet shops, food shops, hospitals, creches, and shelters etc. We also offer a news and video section to keep pet owners and pet lovers up-to-date with the latest trends and happenings in the pet world. Our repository is the perfect place to collaborate and contribute to the development of our website. We welcome your ideas and contributions to create a community of pet lovers dedicated to providing the best care for our furry friends. Together, we can make this website the ultimate resource for pet owners everywhere. Join us today and let's make a difference in the lives of pets and their owners!
+##  About PetZee
+Our website, <b>PetZee</b> provides a comprehensive range of pet services, including pet shops, food shops, hospitals, creches, and shelters etc. We also offer a news and video section to keep pet owners and pet lovers up-to-date with the latest trends and happenings in the pet world. Our repository is the perfect place to collaborate and contribute to the development of our website. We welcome your ideas and contributions to create a community of pet lovers dedicated to providing the best care for our furry friends. Together, we can make this website the ultimate resource for pet owners everywhere. Join us today and let's make a difference in the lives of pets and their owners!
 
 
 ### Tech Stacks
 - [ ] HTML
 - [ ] CSS
+- [ ] JavaScript
 
 
 ### Project Contributors:
