@@ -16,7 +16,7 @@
 ### <p align = "center"> [Pet Medicine Page] </p>
 ![file_2023-03-19_11 45 06](https://user-images.githubusercontent.com/102848153/226175332-b7c68034-aa27-41cb-80a8-f97b12f75c8b.png)
 
-<br>
+
 ### <p align = "center"> [Pet Social Media Page] </p>
 ![file_2023-03-19_11 43 42](https://user-images.githubusercontent.com/102848153/226175335-3ff460f1-0d3b-4f91-b91b-2f1bfac623c9.png)
 
