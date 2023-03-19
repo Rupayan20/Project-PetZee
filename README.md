@@ -1,16 +1,13 @@
 # <p align = "center"> PetZee @CodeFest2023 </p>
 
 <br>
-<br>
 ### <p align = "center"> [Portfolio Page] </p>
 ![12345](https://user-images.githubusercontent.com/102848153/226175848-2196cdc6-5f7b-45cd-8d1e-0f9acff0733b.jpg)
 
 <br>
-<br>
 ### <p align = "center"> [Home Page] </p>
 ![1234](https://user-images.githubusercontent.com/102848153/226175675-9b2d046a-b57c-44df-a417-a382d8ae043c.jpg)
 
-<br>
 <br>
 ### <p align = "center"> [Pet Shop Page] </p>
 ![file_2023-03-19_11 42 49](https://user-images.githubusercontent.com/102848153/226175352-679cddc8-c1ab-4f6b-9762-620ec99a89cc.png)
