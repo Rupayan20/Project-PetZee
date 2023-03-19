@@ -2,7 +2,7 @@
 
 <br>
 ### <p align = "center"> [Portfolio Page] </p>
-![12345](https://user-images.githubusercontent.com/102848153/226175848-2196cdc6-5f7b-45cd-8d1e-0f9acff0733b.jpg)
+![12345](https://user-images.githubusercontent.com/102848153/226182277-09b95b72-b55d-40c2-a241-7bcc91772e8e.jpg)
 
 <br>
 ### <p align = "center"> [Home Page] </p>
