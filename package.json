@@ -1,6 +1,8 @@
 {
   "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
     "express": "^4.18.2",
+    "hardhat": "^2.13.0",
     "mongodb": "^5.1.0"
   }
 }
