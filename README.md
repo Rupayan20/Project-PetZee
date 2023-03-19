@@ -24,10 +24,6 @@
 ### <p align = "center"> [Pet Event Page] </p>
 ![file_2023-03-19_11 46 43](https://user-images.githubusercontent.com/102848153/226175235-8e5f4ccf-d7fd-4844-b5c0-e98c93e83aa4.png)
 
-<br>
-### <p align = "center"> [Pet NGO Page] </p>
-![file_2023-03-19_14 08 54](https://user-images.githubusercontent.com/102848153/226182027-d6abd581-4160-4144-804f-d3cabf948b6c.png)
-
 
  ## 📌 @CodeFest2023 Program
 
