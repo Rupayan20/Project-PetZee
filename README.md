@@ -43,6 +43,13 @@ Our website, <b>PetZee</b> provides a comprehensive range of pet services, inclu
 - [ ] HTML
 - [ ] CSS
 - [ ] JavaScript
+- [ ] MongoDB
+- [ ] Express
+- [ ] NodeJs
+- [ ] Solidity
+- [ ] polygon
+- [ ] Replit
+- [ ] GitHub
 
 
 ### Project Contributors:
