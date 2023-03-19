@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style11.css">
+</head>
+<body>
+    <div class="container">
+        <form class="filter">
+            <div class="item">
+                <label for="">Authorisation</label>
+                <select name="Authorisation">
+                    <option value="">---</option>
+                    <option value="GovAuth">GovAuth</option>
+                    <option value="NonAuth">NonAuth</option>
+                    
+                </select>
+            </div>
+            <div class="item">
+                <label for="">Type</label>
+                <select name="PrftORloss">
+                    <option value="">---</option>
+                    <option value="Profit">Profitable</option>
+                    <option value="Loss">Non Probable</option>
+                </select>
+            </div>
+            
+            
+            <div class="item">
+                <label for="">City</label>
+                <select name="location">
+                    <option value="">---</option>
+                    <option value="kolkata">kolkata</option>
+                    <option value="delhi">delhi</option>
+                    <option value="chennai">chennai</option>
+                    <option value="mumbai">mumbai</option>
+                    <option value="bangalore">bangalore</option>
+                </select>
+            </div>
+            <div class="item submit">
+                <button>Search</button>
+            </div>
+        </form>
+        <div class="countResults">
+            Found <b id="count">6</b> results
+        </div>
+        <div id="list">
+            
+        </div>
+    </div>
+    
+
+    <script src="ngo.js"></script>
+</body>
+</html>
