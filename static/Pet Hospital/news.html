@@ -32,6 +32,8 @@
   <link href="css/style6.css" rel="stylesheet" />
   <!-- responsive style -->
   <link href="css/responsive.css" rel="stylesheet" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" >
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
 </head>
 
 <body class="sub_page">
@@ -59,43 +61,37 @@
         </div>
       </div>
       <div class="container-fluid">
-        <nav class="navbar navbar-expand-lg custom_nav-container pt-3">
-          <a class="navbar-brand" href="index6.html">
-            <img src="assets6/download.png" alt="" style="height: 109px;width:114px;">
-            <span>
-              petzee
-            </span>
+        <nav class="navbar navbar-expand-lg bg-white navbar-light shadow-sm px-5 py-3 py-lg-0">
+          <a href="index.html" class="navbar-brand p-0">
+              <h1 class="m-0 text-primary"><i class="fa fa-cat me-2"></i>PetZee</h1>
           </a>
-          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
-            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+              <span class="navbar-toggler-icon"></span>
           </button>
-
-          <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <div class="d-flex  flex-column flex-lg-row align-items-center w-100 justify-content-between">
-              <ul class="navbar-nav  ">
-                <li class="nav-item active">
-                  <a class="nav-link" href="index6.html">Home <span class="sr-only">(current)</span></a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="buy.html"> Medicine & care </a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="hospital.html">Pets hospital </a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="news.html"> best doctors </a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="contact.html">book now</a>
-                </li>
-              </ul>
-              
-              
-            </div>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+              <div class="navbar-nav ms-auto py-0">
+                  <a href="/static/Home Page/index2.html" class="nav-item nav-link active">Home</a>
+                  <a href="/static/Pet Hospital/hospital.html" class="nav-item nav-link">Pet Hospital</a>
+                  <a href="/static/Pet Hospital/buy.html" class="nav-item nav-link">Medicines & Care</a>
+                  <div class="nav-item dropdown">
+                      <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Services</a>
+                      <div class="dropdown-menu m-0">
+                        <a href="/static/Pet Shop/petshop.html" class="dropdown-item">Pet Shop</a>
+                        <a href="/static/Pet Hospital/index6.html" class="dropdown-item">Pet Care</a>
+                        <a href="/static/Pet Feed/feed.html" class="dropdown-item">Media</a>
+                        <a href="/static/Pet Creche/creche.html" class="dropdown-item">Pet Centery</a>
+                        <a href="/Pet Event/event.html" class="dropdown-item">Pet Event</a>
+                        <a href="/static/Pet Shelter/shelter.html" class="dropdown-item">Pet Shelter</a>
+                        <a href="#" class="dropdown-item">Pet NGO</a>
+                      </div>
+                  </div>
+                  <a href="/static/Pet Hospital/news.html" class="nav-item nav-link">Doctor's Consultation</a>
+              </div>
+              <button type="button" class="btn text-dark" data-bs-toggle="modal" data-bs-target="#searchModal"><i
+                      class="fa fa-search"></i></button>
+              <a href="#" class="btn btn-primary py-2 px-4 ms-3">Profile</a>
           </div>
-
-        </nav>
+      </nav>
       </div>
     </header>
     <!-- end header section -->
@@ -316,6 +312,7 @@
       }
     });
   </script>
+   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 
 </html>
