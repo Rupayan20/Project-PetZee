@@ -23,13 +23,13 @@
 ![file_2023-03-19_14 08 54](https://user-images.githubusercontent.com/102848153/226183647-69114fae-3a3b-4594-94bd-7813d2c078ad.png)
 
 
- ## 📌 @CodeFest2023 Program
+ ## 📌 @CodeValds Program
 
  ### This project is a part of following Hackathon Programs
 
  
 
-##  About CodeFest2023
+##  About CodeValds
 <b>CodeFest 2023</b> is a 5-days Tech Festival organized by the Computer Science and Engineering Department of JIS University Kolkata. It is a platform for students to showcase technical skills and creativity. The hackathon is a great opportunity for us to learn, network, and build something new.
 
 It was put together by a large group of tech enthusiasts from Google Developer Student Club (GDSC) JIS University. The main goal is to grow our local community and give hackers an unforgettable experience. 
@@ -54,8 +54,5 @@ Our website, <b>PetZee</b> provides a comprehensive range of pet services, inclu
 
 ### Project Contributors:
 - [x] <a href="https://github.com/Pikselas"> Aritra Maji </a>
-- [x] <a href="https://github.com/DebasishBiswas1"> Debasish Biswas </a>
 - [x] <a href="https://github.com/Codepalx"> Palash Sakar </a>
 - [x] <a href="https://github.com/Rupayan20"> Rupayan Dutta </a>
-- [x] <a href="https://github.com/SanjoySaha24"> Sanjoy Saha </a>
-- [x] <a href="https://github.com/subho1101"> Subhajit Pramanik </a>
