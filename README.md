@@ -1,4 +1,4 @@
-# <p align = "center"> 📌 PetZee @CodeFest2023 </p>
+# <p align = "center"> 📌 PetZee @CodeValds </p>
 
 
 ### <p align = "center"> [Portfolio Page] </p>
@@ -30,9 +30,7 @@
  
 
 ##  About CodeValds
-<b>CodeFest 2023</b> is a 5-days Tech Festival organized by the Computer Science and Engineering Department of JIS University Kolkata. It is a platform for students to showcase technical skills and creativity. The hackathon is a great opportunity for us to learn, network, and build something new.
-
-It was put together by a large group of tech enthusiasts from Google Developer Student Club (GDSC) JIS University. The main goal is to grow our local community and give hackers an unforgettable experience. 
+<b>CodeValds</b> is an exciting online hackathon in India that provides a platform for developers to showcase their skills and tackle real-world problems. With its engaging user experience and dynamic features, CodeValds promises to be an unforgettable experience for participants.
 
 
 ##  About PetZee
