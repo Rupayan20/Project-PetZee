@@ -1,4 +1,4 @@
-# <p align = "center"> 📌 PetZee @CodeValds </p>
+# <p align = "center"> 📌 PetZee @CodeFest2023 & @CodeValds </p>
 
 
 ### <p align = "center"> [Portfolio Page] </p>
@@ -23,12 +23,14 @@
 ![file_2023-03-19_14 08 54](https://user-images.githubusercontent.com/102848153/226183647-69114fae-3a3b-4594-94bd-7813d2c078ad.png)
 
 
- ## 📌 @CodeValds Program
+ ## 📌 @CodeFest2023 & @CodeValds Program
 
  ### This project is a part of following Hackathon Programs
 
- 
-
+##  About CodeValds 
+<b>CodeFest</b> is a 5-days Tech Festival organized by the Computer Science and Engineering Department of JIS University Kolkata. It is a platform for students to showcase their technical skills and creativity. The hackathon is a great opportunity for students to learn, network, and build something new.
+It was put together by a large group of tech enthusiasts from Google Developer Student Club (GDSC) JIS University. The main goal is to grow our local community and give hackers an unforgettable experience. 
+<br>
 ##  About CodeValds
 <b>CodeValds</b> is an exciting online hackathon in India that provides a platform for developers to showcase their skills and tackle real-world problems. With its engaging user experience and dynamic features, CodeValds promises to be an unforgettable experience for participants.
 
@@ -49,6 +51,16 @@ Our website, <b>PetZee</b> provides a comprehensive range of pet services, inclu
 - [ ] Replit
 - [ ] GitHub
 
+
+### Project Contributors in CodeFest2023:
+- [x] <a href="https://github.com/Pikselas"> Aritra Maji </a>
+- [x] <a href="https://github.com/DebasishBiswas1"> Debasish Biswas </a>
+- [x] <a href="https://github.com/Codepalx"> Palash Sakar </a>
+- [x] <a href="https://github.com/Rupayan20"> Rupayan Dutta </a>
+- [x] <a href="https://github.com/SanjoySaha24"> Sanjoy Saha </a>
+- [x] <a href="https://github.com/subho1101"> Subhajit Pramanik </a>
+
+<br>
 
 ### Project Contributors:
 - [x] <a href="https://github.com/Pikselas"> Aritra Maji </a>
