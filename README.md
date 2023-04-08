@@ -27,7 +27,7 @@
 
  ### This project is a part of following Hackathon Programs
 
-##  About CodeValds 
+##  About CodeFest 2023 
 <b>CodeFest</b> is a 5-days Tech Festival organized by the Computer Science and Engineering Department of JIS University Kolkata. It is a platform for students to showcase their technical skills and creativity. The hackathon is a great opportunity for students to learn, network, and build something new.
 It was put together by a large group of tech enthusiasts from Google Developer Student Club (GDSC) JIS University. The main goal is to grow our local community and give hackers an unforgettable experience. 
 <br>
@@ -50,7 +50,7 @@ Our website, <b>PetZee</b> provides a comprehensive range of pet services, inclu
 - [ ] polygon
 - [ ] Replit
 - [ ] GitHub
-
+<br>
 
 ### Project Contributors in CodeFest2023:
 - [x] <a href="https://github.com/Pikselas"> Aritra Maji </a>
@@ -60,9 +60,7 @@ Our website, <b>PetZee</b> provides a comprehensive range of pet services, inclu
 - [x] <a href="https://github.com/SanjoySaha24"> Sanjoy Saha </a>
 - [x] <a href="https://github.com/subho1101"> Subhajit Pramanik </a>
 
-<br>
-
-### Project Contributors:
+### Project Contributors in CodeValds:
 - [x] <a href="https://github.com/Pikselas"> Aritra Maji </a>
 - [x] <a href="https://github.com/Codepalx"> Palash Sakar </a>
 - [x] <a href="https://github.com/Rupayan20"> Rupayan Dutta </a>
